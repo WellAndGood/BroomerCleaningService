@@ -17,6 +17,10 @@
 # Description
 
  Broomer is a MERN+GraphQL stack application that connects local cleaning tasks to qualified workers with one another for some quick cash. Creating a profile allows usersto  post and accept jobs in your surrounding areas. Jobs available to you are specific to your qualifications as a worker, and vice versa. A set hourly wage, estimated number of hours, and tip is decided on after each task is completed with the option for both the worker and employer to leave a review. Your work information is tracked in your dashboard, upon which you can view your lifetime jobs, as well as your total monies made through their Broomer Cleaning Career.
+ 
+ ## Why
+ 
+ Broomer exists for two reasons; if you're a busy person with not too much time to clean your things, you can quickly and easily hire people to do it for you; as a worker, if you're looking for quick jobs, you might not want to deal with an agency just to get work. Cut out the middleman and get quick work and service.
 
 # User Story
 
